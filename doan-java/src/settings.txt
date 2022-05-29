@@ -1,0 +1,8 @@
+hostName=localhost
+databaseName=sieuthimini
+portNumber=1433
+userName=sa
+password=Thai123456789@
+pathProductImage=./src/assets/images/product/
+pathDirIcons=./src/assets/images/icons/
+pathDirImage=./src/assets/images/
