@@ -1,9 +1,9 @@
 ﻿--
         -- Cơ sở dữ liệu: `sieuthimini`
         --
-        CREATE DATABASE test15;
+        CREATE DATABASE sieuthimini;
 		GO
-        USE test15;
+        USE sieuthimini;
 
         -- --------------------------------------------------------
         -- Cấu trúc bảng cho bảng `chitiethoadon`
